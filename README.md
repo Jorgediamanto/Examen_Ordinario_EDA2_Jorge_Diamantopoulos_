@@ -2,4 +2,4 @@
 
 ## Link del repositorio:
 
-https://github.com/emherraiz/Examen_Ordinario_EDA2_Enrique_Marina_Herr-iz
+https://github.com/Jorgediamanto/Examen_Ordinario_EDA2_Jorge_Diamantopoulos_.git
