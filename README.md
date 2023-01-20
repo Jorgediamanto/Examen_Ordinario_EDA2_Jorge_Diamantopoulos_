@@ -1,4 +1,4 @@
-# Examen_Ordinario_EDA2_Enrique_Marina_Herr-iz
+# Examen_Ordinario_EDA2_Jorge_diamanto
 
 ## Link del repositorio:
 
